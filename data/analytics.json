@@ -1,0 +1,75 @@
+{
+  "servers": {
+    "1369661949339631626": {
+      "total_messages": 8,
+      "total_commands": 9,
+      "total_moderations": 1,
+      "member_joins": 0,
+      "member_leaves": 0,
+      "message_edits": 2,
+      "message_deletes": 3,
+      "role_changes": 0,
+      "users": {
+        "771048694773841921": {
+          "username": "abbu_jaan69",
+          "tag": "abbu_jaan69",
+          "joined_at": "2025-05-07T13:22:58.897Z",
+          "message_count": 5,
+          "command_count": 9,
+          "last_message": "2025-06-29T08:21:39.369Z",
+          "first_message": "2025-06-29T07:39:45.518Z"
+        },
+        "848803916393086976": {
+          "username": "aqua_redfox_gaming2.0",
+          "tag": "aqua_redfox_gaming2.0",
+          "joined_at": "2025-05-14T16:22:52.324Z",
+          "message_count": 3,
+          "command_count": 0,
+          "last_message": "2025-06-29T08:19:22.380Z",
+          "first_message": "2025-06-29T08:17:19.433Z"
+        }
+      },
+      "channels": {
+        "1388456878014595162": {
+          "name": "bot-commands",
+          "message_count": 3,
+          "last_message": "2025-06-29T07:54:16.569Z"
+        },
+        "1369665007633170432": {
+          "name": "➬-🎯┆『ᴄʟᴀɴ-ᴄʜᴀᴛ』",
+          "message_count": 5,
+          "last_message": "2025-06-29T08:21:39.369Z"
+        }
+      },
+      "daily_stats": {
+        "2025-06-29": {
+          "messages": 8,
+          "commands": 9,
+          "moderations": 1,
+          "joins": 0,
+          "leaves": 0
+        }
+      },
+      "moderation_logs": [
+        {
+          "id": "mod-1751185464817",
+          "timestamp": "2025-06-29T08:24:24.817Z",
+          "moderator_id": "771048694773841921",
+          "target_id": "all_users",
+          "action": "clear",
+          "reason": "Cleared 8 messages",
+          "amount_requested": 10,
+          "amount_deleted": 8,
+          "channel_id": "1388456878014595162",
+          "channel_name": "bot-commands",
+          "target_user": null
+        }
+      ]
+    }
+  },
+  "global_stats": {
+    "total_messages": 8,
+    "total_commands": 9,
+    "total_moderations": 1
+  }
+}

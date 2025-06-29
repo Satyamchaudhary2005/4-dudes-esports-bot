@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "1369661949339631626": {
+      "channel_id": "1388793330435100672",
+      "channel_name": "logs",
+      "types": "all",
+      "enabled": true,
+      "setup_by": "771048694773841921",
+      "setup_at": "2025-06-29T08:38:38.008Z"
+    }
+  }
+}
